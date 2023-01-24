@@ -39,8 +39,6 @@ Useful key combinations:
 
 - ctrl d logout supercomputer
 
-<<<<<<< HEAD
-=======
 
 
 ls list everything in the current directory
