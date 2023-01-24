@@ -52,5 +52,5 @@ mv move and rename files
 rm f remove forcefully
 rm -rf remove directory forcefully
 
+ssh -X sunam229@caucluster.rz.uni-kiel.de
 
->>>>>>> 3b03c1029dae1659a90e5668e75e902210b58938
