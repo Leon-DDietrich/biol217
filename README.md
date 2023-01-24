@@ -50,6 +50,6 @@ mv move and rename files
 rm f remove forcefully
 rm -rf remove directory forcefully
 
-ssh -X sunam229@caucluster.rz.uni-kiel.de
+ssh -X sunamxxx@caucluster.rz.uni-kiel.de
 
 conda activate /home/sunam226/.conda/envs/anvio
