@@ -18,3 +18,4 @@
 - overlap assembly
 - de Bruijn graph
 
+will be learned the next three days
