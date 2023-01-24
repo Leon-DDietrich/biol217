@@ -39,8 +39,6 @@ Useful key combinations:
 
 - ctrl d logout supercomputer
 
-<<<<<<< HEAD
-=======
 
 
 ls list everything in the current directory
@@ -52,5 +50,6 @@ mv move and rename files
 rm f remove forcefully
 rm -rf remove directory forcefully
 
+ssh -X sunamxxx@caucluster.rz.uni-kiel.de
 
->>>>>>> 3b03c1029dae1659a90e5668e75e902210b58938
+conda activate /home/sunam226/.conda/envs/anvio
