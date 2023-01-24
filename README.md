@@ -12,24 +12,35 @@ Make a new folder
 ``` 
 mkdir foldername
 ```
-This is how we make a github readme file
 
-----
+Make a new file
 
-We have changed something here
-Now again
+``` 
+touch filename.ending
+```
+
+Remove a file
+
+```
+rm filename
+```
+
+change the directory
+
+``` 
+cd directorypath
+```
+
+Useful key combinations:
+
+- ctrl l clear screen
+
+- ctrl alt t terminal
+
+- ctrl d logout supercomputer
 
 
-Second Change
 
-And a third one
-mkdir make directory
-ctrl l clear screen
-ctrl alt t terminal
-touch (filename) make file
-cd change directory
-rm remove file
-rm -r remove directory
 ls list everything in the current directory
 ls -l more information about files
 ls -a shows hidden files
@@ -38,5 +49,5 @@ cd .. go back one folder
 mv move and rename files
 rm f remove forcefully
 rm -rf remove directory forcefully
-ctrl d logout supercomputer
+
 
