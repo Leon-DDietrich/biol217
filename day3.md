@@ -20,6 +20,10 @@ adding an image:
 - ![image](imagepath)
 
 
+# What have we done today
+```
+megahit_toolkit contig2fastg 99 final.contigs.fa > final.contigs.fastg                   
+
 cd /work_beegfs/sunam229/day3/fastp
 
 for i in `ls *_R1.fastq.gz`;
@@ -40,3 +44,4 @@ conda activate anvio
 module load samtools
 cd /work_beegfs/sunam229/day3/mapping/4_mapping
 for i in *.sam; do samtools view -bS $i > "$i".bam; done
+```
