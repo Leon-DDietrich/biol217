@@ -6,12 +6,15 @@ I built this tree
 
 ![tree_picture](resources/Anvio_tree.png)
 
-Which binning strategy gives you the best quality for the Archaea
+### Which binning strategy gives you the best quality for the Archaea
 bins??
 
 Looking at the completeness and redundancy, the METABAT archaea bin has 
-97.37 and 5.26, respectively and 
-How many Archaea bins do you get that are of High Quality? How many Archaea bins do you get that are of High Quality?
+97.37 and 5.26, respectively and COCOCT has 73.68 and 1.32. The redundancy pf CONCOCT is better but the completeness of METABAT is much higher, so METABAT seems to be the better choice. 
+
+### How many Archaea and Bacteria bins do you get that are of High Quality?
+Defining high quality as a completeness higher than 80 % and a low redundancy, we got 25 high quality bacterial bins and one from archaea
+
 
 to summarize the data so far: 
 
